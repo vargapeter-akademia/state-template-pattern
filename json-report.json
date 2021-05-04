@@ -1,0 +1,17 @@
+[ {
+  "id" : 202302,
+  "library" : "Library 1",
+  "name" : "Joshue Bloch:Effective Java"
+}, {
+  "id" : 21302,
+  "library" : "Library 1",
+  "name" : "Corets, Eva:Oberon's Legacy"
+}, {
+  "id" : 202302,
+  "library" : "Library 2",
+  "name" : "Joshue Bloch:Effective Java"
+}, {
+  "id" : 21302,
+  "library" : "Library 2",
+  "name" : "Corets, Eva:Oberon's Legacy"
+} ]
